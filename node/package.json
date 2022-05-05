@@ -1,0 +1,21 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practica de node package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "practicas"
+  },
+  "keywords": [
+    "javascript",
+    "practica",
+    "npm",
+    "node"
+  ],
+  "author": "el gerry",
+  "license": "ISC",
+  "dependencies": {
+    "alertifyjs": "^1.13.1",
+    "colors": "^1.4.0"
+  }
+}

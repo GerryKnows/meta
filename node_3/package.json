@@ -1,0 +1,14 @@
+{
+  "name": "proj_express",
+  "version": "1.0.0",
+  "description": "servidor con express",
+  "main": "codigo3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gerry_knows",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
